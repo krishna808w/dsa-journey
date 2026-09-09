@@ -19,3 +19,6 @@ class Solution:
 
 solution=Solution()
 print(solution.romanToInt("MCMXCIV"))
+
+# Time Complexity: O(n)
+# Space Complexity: O(1)
