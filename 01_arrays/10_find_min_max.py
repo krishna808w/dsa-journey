@@ -15,5 +15,6 @@ print(fin_min_max([-3, -2, -8]
 ))
 print(fin_min_max([1, 1, 1]))
 
-
+#Time: O(n)
+#Space: O(1)
 
